@@ -1,0 +1,51 @@
+﻿  main.cpp
+e:\personal\university\introduction to programming\project final\doodle - sfml\finalproject\common.h(27): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+e:\personal\university\introduction to programming\project final\doodle - sfml\finalproject\doodle.h(158): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\personal\university\introduction to programming\project final\doodle - sfml\finalproject\doodle.h(314): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\personal\university\introduction to programming\project final\doodle - sfml\finalproject\doodle.h(321): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\personal\university\introduction to programming\project final\doodle - sfml\finalproject\doodle.h(328): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\personal\university\introduction to programming\project final\doodle - sfml\finalproject\main.cpp(79): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\personal\university\introduction to programming\project final\doodle - sfml\finalproject\main.cpp(82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\personal\university\introduction to programming\project final\doodle - sfml\finalproject\main.cpp(83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\personal\university\introduction to programming\project final\doodle - sfml\finalproject\main.cpp(294): warning C4018: '<': signed/unsigned mismatch
+e:\personal\university\introduction to programming\project final\doodle - sfml\finalproject\main.cpp(365): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+e:\personal\university\introduction to programming\project final\doodle - sfml\finalproject\main.cpp(541): warning C4244: '+=': conversion from 'T' to '__int64', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\personal\university\introduction to programming\project final\doodle - sfml\finalproject\main.cpp(572): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\personal\university\introduction to programming\project final\doodle - sfml\finalproject\main.cpp(573): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\personal\university\introduction to programming\project final\doodle - sfml\finalproject\main.cpp(691): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\personal\university\introduction to programming\project final\doodle - sfml\finalproject\main.cpp(700): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\personal\university\introduction to programming\project final\doodle - sfml\finalproject\main.cpp(763): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\personal\university\introduction to programming\project final\doodle - sfml\finalproject\main.cpp(774): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\personal\university\introduction to programming\project final\doodle - sfml\finalproject\main.cpp(786): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\personal\university\introduction to programming\project final\doodle - sfml\finalproject\main.cpp(936): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+e:\personal\university\introduction to programming\project final\doodle - sfml\finalproject\main.cpp(936): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\personal\university\introduction to programming\project final\doodle - sfml\finalproject\main.cpp(948): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\personal\university\introduction to programming\project final\doodle - sfml\finalproject\main.cpp(981): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\personal\university\introduction to programming\project final\doodle - sfml\finalproject\main.cpp(980): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\personal\university\introduction to programming\project final\doodle - sfml\finalproject\main.cpp(985): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\personal\university\introduction to programming\project final\doodle - sfml\finalproject\doodle.h(103): warning C4172: returning address of local variable or temporary: transformation
+  FinalProject.vcxproj -> E:\Personal\University\Introduction To Programming\project Final\Doodle - SFML\Debug\FinalProject.exe
