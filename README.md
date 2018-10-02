@@ -1,4 +1,4 @@
-# Doodle Game (SFML Project)
+# Doodle Game Project (SFML library)
 
 Doodle Game is a desktop game inspired by Android Doodle created using SFML Library.
 
